@@ -1,0 +1,5 @@
+com/intuit/b2b/payment/PaymentsControllerTest.class
+com/intuit/b2b/PaymentsApplicationTests.class
+com/intuit/b2b/healthCheck/HealthCheckTest.class
+com/intuit/b2b/user/UsersControllerTest.class
+com/intuit/b2b/riskEngine/RiskEngineServiceTest.class
