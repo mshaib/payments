@@ -15,7 +15,7 @@ Payment System is POC of a distributed peer to peer system that enables Customer
 # Getting Started
 - Clone Project
 ```
-[git clone](https://github.com/mshaib/b2b.git)
+git clone https://github.com/mshaib/payments.git
 ```
 - Start Confluent Platform (as explained in upove link)
 - Run application using maven Or from Intellij
